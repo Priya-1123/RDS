@@ -1,0 +1,20 @@
+rds - relation database service.
+it is managed database services.
+Amazon RDS manages backups, software patching, automatic failure detection, and recovery.
+
+
+Amazon RDS supports eight engines:
+1. Amazon Aurora PostgreSQL-Compatible Edition.
+2. Amazon Aurora MySQL-Compatible Edition.
+3. RDS for PostgreSQL.
+4. RDS for MySQL.
+5. RDS for MariaDB.
+6. RDS for SQL Server.
+7. RDS for Oracle.
+8. RDS for Db2.
+
+Amazon RDS Custom allows organizations to connect to the Amazon RDS endpoint with privileged access. 
+This managed database service -- available for Oracle and SQL Server 
+-- is ideal for applications that require database and operating system customization, and for legacy, custom and packaged applications. 
+With Amazon RDS Custom, all AWS resources are deployed into the organization's AWS account.
+ A support perimeter monitors the environment and raises alerts if it detects invalid customizations.
