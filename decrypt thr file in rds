@@ -1,0 +1,9 @@
+1st run:
+aws s3 cp s3://my-bucket/encrypted-data/file.gpg .
+ 
+after that : 
+gpg  --decrypt <filename>.gpg
+
+  then it will ask gpg key
+
+  
